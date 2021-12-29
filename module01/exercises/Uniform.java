@@ -1,3 +1,5 @@
+package exercises;
+
 public class Uniform {
     public static void main(String[] args) {
         double a = Math.random();

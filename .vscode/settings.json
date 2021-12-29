@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "module01",
+        "module02",
+        "module03",
+        "module04",
+        "module05",
+        "module06",
+        "module07",
+        "module08",
+        "module09",
+        "module10"
+    ]
+}
