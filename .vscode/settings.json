@@ -9,6 +9,8 @@
         "module07",
         "module08",
         "module09",
-        "module10"
+        "module10",
+        "module01/hello",
+        "module02/loops"
     ]
 }
