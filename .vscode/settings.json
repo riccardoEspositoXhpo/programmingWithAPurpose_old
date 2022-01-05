@@ -1,16 +1,21 @@
 {
     "java.project.sourcePaths": [
-        "module01",
-        "module02",
-        "module03",
-        "module04",
-        "module05",
-        "module06",
-        "module07",
-        "module08",
-        "module09",
         "module10",
+        "module09",
+        "module08",
+        "module07",
+        "module06",
+        "module05",
+        "module04",
+        "module03",
+        "module02",
         "module01/hello",
-        "module02/loops"
+        "module01",
+        "02_loops",
+        "01_hello",
+        "03_arrays"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
     ]
 }
