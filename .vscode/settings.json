@@ -13,7 +13,8 @@
         "module01",
         "02_loops",
         "01_hello",
-        "03_arrays"
+        "03_arrays",
+        "04_inputOutput"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
